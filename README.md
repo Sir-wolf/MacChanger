@@ -1,5 +1,5 @@
 # MacChanger
-# 👋 **Welcome to hashtools project !**
+# 👋 **Welcome to  MacChanger project !**
 [General info](#general-info) | [Technologies](#technologies) | [Setup](#setup) | [Usage](#usage) |  [Demo](#demo) | [Code Contributors](#CodeContributors) | [Links](#links)
 
 ![](https://img.shields.io/badge/FiveNineDark-2020-red) ![](https://camo.githubusercontent.com/8930dd7dabdc54b27273533cf1396472b2991555/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d47504c2d2d332e302d677265656e) ![](https://camo.githubusercontent.com/d063b3af2345dbbd117eaa6a618c77bd07443eee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d332d627269676874677265656e2e737667)
